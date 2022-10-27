@@ -8,18 +8,33 @@ The CzodrowskiLab is managed by Prof. Dr. Paul Czodrowski. The lab investigates 
 
 ## You can find us here
 <div align="left">
-  <img src="./icons8-website-50.png" width="25px" height="25px" alt="Linkedin Logo" /> https://czodrowskilab.org/
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="./icons8-website-50-white.png" width="25px" height="25px">
+ <source media="(prefers-color-scheme: light)" srcset="./icons8-website-50.png" width="25px" height="25px">
+ <img alt="Website Logo" src="./icons8-website-50.png" width="25px" height="25px">
+</picture> https://czodrowskilab.org/
 </div>
 <div align="left">
-  <img src="./icons8-linkedin-50.png" width="25px" height="25px" alt="Linkedin Logo" /> https://www.linkedin.com/in/paulczodrowski/
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./icons8-linkedin-50-white.png" width="25px" height="25px">
+  <source media="(prefers-color-scheme: light)" srcset="./icons8-linkedin-50.png" width="25px" height="25px">
+  <img alt="Linkedin Logo" src="./icons8-linkedin-50.png" width="25px" height="25px">
+ </picture> https://www.linkedin.com/in/paulczodrowski/
 </div>
-  
 <div align="left">
-  <img src="./icons8-twitter-50.png" width="25px" height="25px" alt="Twitter Logo" /> https://twitter.com/CzodrowskiPaul
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./icons8-twitter-50-white.png" width="25px" height="25px">
+  <source media="(prefers-color-scheme: light)" srcset="./icons8-twitter-50.png" width="25px" height="25px">
+  <img alt="Twitter Logo" src="./icons8-twitter-50.png" width="25px" height="25px">
+ </picture> https://twitter.com/CzodrowskiPaul
 </div>
 
 <div align="left">
-  <img src="./icons8-address-50.png" width="25px" height="25px" alt="Twitter Logo" /> Duesbergweg 10-14, 55128 Mainz, Germany
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./icons8-address-50-white.png" width="25px" height="25px">
+  <source media="(prefers-color-scheme: light)" srcset="./icons8-address-50.png" width="25px" height="25px">
+  <img alt="Address Logo" src="./icons8-address-50.png" width="25px" height="25px">
+ </picture> Duesbergweg 10-14, 55128 Mainz, Germany
 </div>
 
 <div align="right">
