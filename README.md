@@ -8,18 +8,18 @@ The CzodrowskiLab is managed by Prof. Dr. Paul Czodrowski. The lab investigates 
 
 ## You can find us here
 <div align="left">
-  <img src="./icons8-website-50.png" alt="Linkedin Logo" /> https://czodrowskilab.org/
+  <img src="./icons8-website-50.png" width="25px" height="25px" alt="Linkedin Logo" /> https://czodrowskilab.org/
 </div>
 <div align="left">
-  <img src="./icons8-linkedin-50.png" alt="Linkedin Logo" /> https://www.linkedin.com/in/paulczodrowski/
+  <img src="./icons8-linkedin-50.png" width="25px" height="25px" alt="Linkedin Logo" /> https://www.linkedin.com/in/paulczodrowski/
 </div>
   
 <div align="left">
-  <img src="./icons8-twitter-50.png" alt="Twitter Logo" /> https://twitter.com/CzodrowskiPaul
+  <img src="./icons8-twitter-50.png" width="25px" height="25px" alt="Twitter Logo" /> https://twitter.com/CzodrowskiPaul
 </div>
 
 <div align="left">
-  <img src="./icons8-address-50.png" alt="Twitter Logo" /> Duesbergweg 10-14, 55128 Mainz, Germany
+  <img src="./icons8-address-50.png" width="25px" height="25px" alt="Twitter Logo" /> Duesbergweg 10-14, 55128 Mainz, Germany
 </div>
 
 <div align="right">
