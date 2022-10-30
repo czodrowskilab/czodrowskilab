@@ -3,8 +3,7 @@
 </picture>
 
 ## Welcome to the GitHub profile of the CzodrowskiLab
-
-The CzodrowskiLab is managed by Prof. Dr. Paul Czodrowski. The lab investigates the proton transfer in pharmaceutical relevant drug candidates. Here, a special focus is placed on thermodynamics and kinetics, so that principles and possible rules for the design of improved drug candidates can be drawn from this. In addition to experimental methods, modern approaches from artificial intelligence and data science are also used.
+We study the proton transfer in pharmaceutical relevant drug candidates. Here, a special focus is placed on thermodynamics and kinetics, so that principles and possible rules for the design of improved drug candidates can be drawn from this. In addition to experimental methods, modern approaches from artificial intelligence and data science are also used.
 
 ## You can find us here
 <div align="left">
