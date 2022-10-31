@@ -1,5 +1,5 @@
 <picture>
- <img alt="CzodrowskiLab Banner" src="./CzodrowskiLab_banner_gh.png">
+ <img alt="CzodrowskiLab Banner" src="./CzodrowskiLab_banner_gh_v2.png">
 </picture>
 
 ## Welcome to the GitHub profile of the CzodrowskiLab
